@@ -38,6 +38,8 @@ Fill in the exact commands a stranger would run. These three commands are what r
 | Run   | `[e.g., python app.py]`     | Starts the tool |
 | Test  | `[e.g., pytest]`            | Runs the automated tests |
 
+If there any assumptions on the environment required to run these commands, list them explicitly. Submissions with complicated build processes should provide a Dockerfile as a convenience.
+
 If your tool needs environment variables, copy `.env.example` to `.env` and
 fill in the values before running.
 
