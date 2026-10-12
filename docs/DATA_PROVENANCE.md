@@ -1,6 +1,6 @@
 # Data Provenance
 
-Document every dataset your tool uses. The code license does **not** relicense data — each dataset carries its own terms, and you are responsible for them. Do not commit raw or large data to the repository; describe how to obtain it here and keep only small samples in `data/sample/`.
+Document every dataset your tool uses. The code license does **not** relicense data—each dataset carries its own terms, and you are responsible for them. Do not commit raw or large data to the repository; describe how to obtain it here and keep only small samples in `data/sample/`.
 
 # Dataset Inventory
 
@@ -23,11 +23,8 @@ Categories:
 
 # Known Limitations
 
-[Coverage gaps, staleness, geographic mismatches, or quality issues a user
-should know about.]
+[Coverage gaps, staleness, geographic mismatches, or quality issues a user should know about.]
 
 # Restricted, Sensitive, or Personal Data
 
-[State whether any dataset involves individuals, households, addresses,
-facilities, or restricted records. If you used de-identified or aggregated
-data, describe the method and any re-identification or small-cell risk. Do not use sensitive, confidential, or restricted-use data unless the challenge rules expressly permit it and you can document that permission.]
+[State whether any dataset involves individuals, households, addresses, facilities, or restricted records. If you used de-identified or aggregated data, describe the method and any re-identification or small-cell risk. Do not use sensitive, confidential, or restricted-use data unless the [Challenge Handbook](https://housingchallenge.turnout.rocks/handbook.html) and the [Official Rules](https://housingchallenge.turnout.rocks/rules.html) expressly permit it and you can document that permission.]

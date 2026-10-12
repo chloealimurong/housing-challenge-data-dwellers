@@ -2,8 +2,7 @@
 
 This is a required deliverable. It is the single most important document for the Transparency & Explainability criterion (30% of scoring). Write it so a policymaker with no technical background can understand what your tool does, what it assumes, and what it cannot tell them.
 
-Replace every [bracketed prompt] with your content. Keep it concise; clarity
-beats length.
+Replace every [bracketed prompt] with your content. Keep it concise; clarity beats length.
 
 # Purpose and Scope
 
@@ -23,9 +22,7 @@ beats length.
 
 # Methodological Approach
 
-[Explain how the tool works: the equations, logic flows, or rules; how a
-scenario changes the inputs; and how outputs are produced. Diagrams or pseudocode are welcome. Someone should be able to follow the reasoning from
-input to output.]
+[Explain how the tool works: the equations, logic flows, or rules; how a scenario changes the inputs; and how outputs are produced. Diagrams or pseudocode are welcome. Someone should be able to follow the reasoning from input to output.]
 
 # Limitations and Known Edge Cases
 
