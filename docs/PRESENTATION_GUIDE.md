@@ -1,7 +1,6 @@
 # Presentation Guide
 
-Two of your deliverables are a slide deck and a demo video. This guide keeps
-them focused; it is not scored on production polish.
+Two of your deliverables are a slide deck and a demo video. This guide keeps them focused; it is not scored on production polish.
 
 # Slide Deck
 
