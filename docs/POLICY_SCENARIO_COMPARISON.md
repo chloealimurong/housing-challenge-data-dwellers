@@ -3,9 +3,9 @@
 This is a required deliverable and the basis for the Policy Insight &
 Interpretation criterion. Rank the benchmark scenarios you addressed, explain what drives the differences, identify which assumptions matter most, and be honest about what the tool cannot say.
 
-You must address at least three of the five benchmark scenarios:
+You must model a baseline (housing production under current rules, with no policy changes) and at least three of the five benchmark scenarios:
 
-1. Status Quo (Baseline)
+1. Accessory Dwelling Units (ADUs)
 1. Missing Middle / Gentle Density
 1. Transit-Oriented Density
 1. Parking Requirement Reduction
